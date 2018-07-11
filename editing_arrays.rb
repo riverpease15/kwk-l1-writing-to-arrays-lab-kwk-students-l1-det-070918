@@ -18,4 +18,3 @@ def add_colors
 end
 
 change_rainbow_colors
-add_colors
